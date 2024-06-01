@@ -48,6 +48,10 @@ git push -u origin main
 ```
 
 
+Github token 발급 필요
+(github login -> settings -> Developer Settings -> Personal access tokens -> Tokens(classic) -> need repo auth check!! -> get token!!)
+- github-repo-codeline.py : 깃헙 레포에 있는 코드라인 수 세는 코드
+- github-repos-codeline.py : 깃헙에 있는 코드라인 수 세는 코드
 
 #### etc
 
