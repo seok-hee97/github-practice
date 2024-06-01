@@ -30,7 +30,7 @@
 - init -> use this command inside of your project to turn it into a Git repository and start using Git with that codebase
 - **Powerful VSCode Tips And Tricks For Python Development And Design**
 
-**[https://www.youtube.com/watch?v=fj2tuTIcUys&t=130s**](https://www.youtube.com/watch?v=fj2tuTIcUys&t=130s**)
+[Powerful VSCode Tips And Tricks For Python Development And Design](https://www.youtube.com/watch?v=fj2tuTIcUys&t=130s)
 
 
 
