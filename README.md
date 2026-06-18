@@ -1,5 +1,16 @@
 # Github-practice
 
+## 문서 목차
+
+| 문서 | 설명 |
+|------|------|
+| [git_workflow/README.md](git_workflow/README.md) | Git Flow, 브랜치 전략, 주요 명령어 (branch, checkout, merge, rebase, cherry-pick 등), Conventional Commits |
+| [git_workflow/pull_request.md](git_workflow/pull_request.md) | Pull Request 워크플로우 (Fork 기반 / 브랜치 기반, 코드 리뷰, 머지 방법) |
+| [troubleshooting/README.md](troubleshooting/README.md) | 트러블슈팅 (커밋 되돌리기, Merge Conflict 해결, reflog 복구, reset vs revert, LF/CRLF) |
+| [github_features/actions.md](github_features/actions.md) | GitHub Actions CI/CD 입문 (워크플로우 구조, 트리거, 자주 쓰는 Actions) |
+
+---
+
 
 - 깃, 깃허브 한번에 이해시켜드리고 포트폴리오 올리는 법 1탄 o
 
@@ -11,11 +22,11 @@
 
 **Git and GitHub for Beginners - Crash Course o**
 
-**[https://www.youtube.com/watch?v=RGOj5yH7evk**](https://www.youtube.com/watch?v=RGOj5yH7evk**)
+**[https://www.youtube.com/watch?v=RGOj5yH7evk](https://www.youtube.com/watch?v=RGOj5yH7evk)**
 
 **[Git-command.md](http://Git-command.md)**
 
-**[https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2**](https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2**)
+**[https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2](https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2)**
 
 - repo -> repository
 - clone -> bring a repo down from the internet (remote repository like Github) to your local machine
@@ -42,7 +53,7 @@ git remote add origin <GitHub 레포지토리 주소>
 
 git add .
 
-git commit -m "init commit message
+git commit -m "init commit message"
 
 git push -u origin main
 ```
